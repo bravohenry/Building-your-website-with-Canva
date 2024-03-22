@@ -1,6 +1,6 @@
-const MY_DOMAIN = 'cn.goodman.today'; // 你的自定义域名
-const CANVA_DOMAIN = 'coins404.my.canva.site'; // Canva 网站的域名，确保没有尾随斜杠
-const CANVA_DOMAIN_EXTRA = 'chinese'// Canva 网站的域名后面的内容，确保没有尾随斜杠
+const MY_DOMAIN = 'xxx'; // 你的自定义域名
+const CANVA_DOMAIN = 'xxx'; // Canva 网站的域名，确保没有尾随斜杠
+const CANVA_DOMAIN_EXTRA = 'xxx'// Canva 网站的域名后面的内容，没有可删除
 const GOOGLE_FONT = 'Ubuntu';
 
 
